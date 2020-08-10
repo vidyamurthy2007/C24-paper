@@ -1,1 +1,2 @@
-# C24-paper
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
